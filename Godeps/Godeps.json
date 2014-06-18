@@ -5,6 +5,11 @@
 		{
 			"ImportPath": "github.com/levicook/go-detect",
 			"Rev": "503493bb1db539c457ac24136709d92efa20cb04"
+		},
+		{
+			"ImportPath": "labix.org/v2/mgo",
+			"Comment": "263",
+			"Rev": "gustavo@niemeyer.net-20140126000127-qe9fwt48ceby11ts"
 		}
 	]
 }
